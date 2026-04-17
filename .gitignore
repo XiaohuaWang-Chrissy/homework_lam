@@ -1,0 +1,11 @@
+# Raw data (too large for GitHub)
+data/
+
+# Python virtual environment
+.venv/
+
+# macOS
+.DS_Store
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
