@@ -9,3 +9,6 @@ data/
 
 # Jupyter checkpoints
 .ipynb_checkpoints/
+
+# OES zip (already extracted to oesm24in4/)
+houston_data/*.zip
